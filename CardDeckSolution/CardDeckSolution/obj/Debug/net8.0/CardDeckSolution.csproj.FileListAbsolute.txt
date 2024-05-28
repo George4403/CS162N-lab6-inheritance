@@ -1,0 +1,14 @@
+C:\Users\theal\source\repos\CardDeckSolution\CardDeckSolution\bin\Debug\net8.0\CardDeckSolution.exe
+C:\Users\theal\source\repos\CardDeckSolution\CardDeckSolution\bin\Debug\net8.0\CardDeckSolution.deps.json
+C:\Users\theal\source\repos\CardDeckSolution\CardDeckSolution\bin\Debug\net8.0\CardDeckSolution.runtimeconfig.json
+C:\Users\theal\source\repos\CardDeckSolution\CardDeckSolution\bin\Debug\net8.0\CardDeckSolution.dll
+C:\Users\theal\source\repos\CardDeckSolution\CardDeckSolution\bin\Debug\net8.0\CardDeckSolution.pdb
+C:\Users\theal\source\repos\CardDeckSolution\CardDeckSolution\obj\Debug\net8.0\CardDeckSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theal\source\repos\CardDeckSolution\CardDeckSolution\obj\Debug\net8.0\CardDeckSolution.AssemblyInfoInputs.cache
+C:\Users\theal\source\repos\CardDeckSolution\CardDeckSolution\obj\Debug\net8.0\CardDeckSolution.AssemblyInfo.cs
+C:\Users\theal\source\repos\CardDeckSolution\CardDeckSolution\obj\Debug\net8.0\CardDeckSolution.csproj.CoreCompileInputs.cache
+C:\Users\theal\source\repos\CardDeckSolution\CardDeckSolution\obj\Debug\net8.0\CardDeckSolution.dll
+C:\Users\theal\source\repos\CardDeckSolution\CardDeckSolution\obj\Debug\net8.0\refint\CardDeckSolution.dll
+C:\Users\theal\source\repos\CardDeckSolution\CardDeckSolution\obj\Debug\net8.0\CardDeckSolution.pdb
+C:\Users\theal\source\repos\CardDeckSolution\CardDeckSolution\obj\Debug\net8.0\CardDeckSolution.genruntimeconfig.cache
+C:\Users\theal\source\repos\CardDeckSolution\CardDeckSolution\obj\Debug\net8.0\ref\CardDeckSolution.dll
